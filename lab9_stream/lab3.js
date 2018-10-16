@@ -1,0 +1,8 @@
+const fs = require('fs')
+const zlib = require('zlib')
+var readerStream = fs.createReadStream('.\\lab9_stream\\node_intro')
+readerStream.setEncoding('UTF8')
+const zip = zlib.createGzip()
+const writerStream = fs.createWriteStream('.\\lab9_stream\\node.gz')
+readerStream.pipe(zip).pipe(writerStream)
+console.log('program terminated')

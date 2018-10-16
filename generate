@@ -1,0 +1,39 @@
+16 Oct 10:41:04 - [info] 
+
+Welcome to Node-RED
+===================
+
+16 Oct 10:41:04 - [info] Node-RED version: v0.19.4
+16 Oct 10:41:04 - [info] Node.js  version: v8.12.0
+16 Oct 10:41:04 - [info] Windows_NT 10.0.17134 x64 LE
+16 Oct 10:41:06 - [info] Loading palette nodes
+16 Oct 10:41:07 - [warn] rpi-gpio : Raspberry Pi specific node set inactive
+16 Oct 10:41:07 - [warn] ------------------------------------------------------
+16 Oct 10:41:07 - [warn] [node-red/tail] Not currently supported on Windows.
+16 Oct 10:41:07 - [warn] ------------------------------------------------------
+16 Oct 10:41:07 - [info] Settings file  : C:\Users\Admin\.node-red\settings.js
+16 Oct 10:41:07 - [info] Context store  : 'default' [module=memory]
+16 Oct 10:41:07 - [info] User directory : C:\Users\Admin\.node-red
+16 Oct 10:41:07 - [warn] Projects disabled : editorTheme.projects.enabled=false
+16 Oct 10:41:07 - [info] Flows file     : C:\Users\Admin\.node-red\==
+16 Oct 10:41:07 - [info] Creating new flow file
+16 Oct 10:41:07 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+16 Oct 10:41:07 - [info] Server now running at http://127.0.0.1:1880/
+16 Oct 10:41:07 - [info] Starting flows
+16 Oct 10:41:07 - [info] Started flows
+16 Oct 10:49:05 - [info] Stopping flows
+16 Oct 10:49:05 - [info] Stopped flows
+要終止批次工作嗎 (Y/N)? 

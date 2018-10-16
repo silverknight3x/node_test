@@ -1,0 +1,11 @@
+console.log(123=='123')
+console.log(12.3=='12.3')
+console.log('a'=='A')
+console.log('a'=='A'.toLocaleLowerCase())
+console.log(123==='123')
+console.log('123'==='123')
+var x= 123
+var y = new Number(123)
+console.log(typeof x, typeof y)
+console.log(x==y, x===y)
+console.log(x, y)

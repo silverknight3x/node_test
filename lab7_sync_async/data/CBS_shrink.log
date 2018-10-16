@@ -1,0 +1,4 @@
+﻿2018-10-15 12:31:54, Info                  CBS    TI: --- Initializing Trusted Installer ---
+2018-10-15 12:31:54, Info                  CBS    TI: Last boot time: 2018-10-15 10:31:21.498
+2018-10-15 12:31:54, Info                  CBS    Starting TrustedInstaller initialization.
+2018-10-15 12:31:54, Info                  CBS    Lock: New lock added: CCbsPublicSessionClassFactory, level: 30, total lock:4

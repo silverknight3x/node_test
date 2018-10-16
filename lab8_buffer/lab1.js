@@ -1,0 +1,15 @@
+const buffer1 = Buffer.allocUnsafe(20)
+console.log(buffer1)
+buffer1.fill(0)
+console.log(buffer1)
+
+const buffer2 = Buffer.alloc(100)
+console.log(buffer2)
+buffer3 = new Buffer(20)
+len = buffer3.write("ABCDE")
+console.log(len, buffer3)
+
+buffer4 = new Buffer([97, 98, 99])
+buffer5 = new Buffer.from('hello')
+console.log(buffer4, buffer4.toString('utf-8'))
+console.log(buffer5, buffer5.toString('ascii'))
